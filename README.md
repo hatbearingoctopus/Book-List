@@ -1,2 +1,5 @@
 # Book-List
-UDEMY (Practical JS) Project
+
+UDEMY Practical JS Project
+
+HTML, JS, and ES6 JS Conversion
